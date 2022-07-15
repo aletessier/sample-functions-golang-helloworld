@@ -13,7 +13,7 @@ This repository contains a sample "Hello World" function written in Go. You can 
 
 ```bash
 # clone this repo
-git clone git@github.com:digitalocean/sample-functions-golang-helloworld.git
+git clone git@github.com:aletessier/sample-functions-golang-helloworld.git
 ```
 
 ```
